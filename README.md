@@ -7,7 +7,11 @@
 <p align='center'>
   Software Engineer | frontend  from Bangladesh.
 </p>
-
+<p>I am working on Front End Development.
+Currently I am working with React Js. As a Front-End
+Developer, to be responsible for producing high quality
+solutions for company customers, strong ability to execute
+and implement standard software architecture patterns.</p>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/md-polash-miya-726667193/" target="_blank">
