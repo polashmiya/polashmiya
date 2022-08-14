@@ -1,11 +1,6 @@
 
 
-<h1 align='center'>
-  Hi there 👋I’m @Md Polash Miya 👨‍💻
-</h1>
 
-<p align='center'>
-  Software Engineer | frontend  from Bangladesh.
 </p>
 <p>I am working on Front End Development.
 Currently I am working with React Js. As a Front-End
